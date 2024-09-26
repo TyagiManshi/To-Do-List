@@ -1,0 +1,2 @@
+# To-Do-List
+ The To-Do List Application is a web-based productivity tool designed to assist users in managing and organizing their tasks efficiently. Developed using HTML, CSS, and JavaScript, this application provides an intuitive interface for users to create, edit, and delete tasks, facilitating better time management and task prioritization.This project exemplifies my skills in front-end development and highlights my ability to create functional web applications that address real-world organizational challenges.
